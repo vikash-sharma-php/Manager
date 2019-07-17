@@ -12,7 +12,7 @@
     "repositories": [
            {
                "type": "vcs",
-               "url": "https://ivikashsharma:e3b39dd48d0980093b7397ee31ca0cd1d6d25bd3@github.com/vikashsp/socialite"
+               "url": "https://github.com/vikashsp/socialite"
            }
     ],
     "require": {
